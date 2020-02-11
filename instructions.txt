@@ -1,0 +1,2 @@
+tis project is web application
+to execute on the browser use the url "http://localhost:5500"
