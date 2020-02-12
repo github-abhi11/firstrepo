@@ -1,4 +1,5 @@
 Hello All
 this is demo we are understanding about rescursive merge
 when changes are done to the master branch while working with multiple branches while merging it will not good
-adding a new line in this file from mastr branch
+
+by changing data in this file 
