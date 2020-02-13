@@ -3,3 +3,4 @@ this is demo we are understanding about rescursive merge
 when changes are done to the master branch while working with multiple branches while merging it will not good
 
 by changing data in this file 
+a new line in demo branch in the file txt1.txt
